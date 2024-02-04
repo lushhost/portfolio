@@ -1,2 +1,0 @@
-# Dhairya---PersonalInfo
-A Website
